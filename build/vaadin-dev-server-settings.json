@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "E:/Downloads/FitTrack/FitTrack/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "E:/Downloads/FitTrack/FitTrack/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "E:/Downloads/FitTrack/FitTrack/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "E:\\Downloads\\FitTrack\\FitTrack\\build\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "E:\\Downloads\\FitTrack\\FitTrack\\build\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "E:/Downloads/FitTrack/FitTrack/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "E:/Downloads/FitTrack/FitTrack/build/dev-bundle/config",
+  "jarResourcesFolder": "E:/Downloads/FitTrack/FitTrack/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "E:\\Downloads\\FitTrack\\FitTrack\\build\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
